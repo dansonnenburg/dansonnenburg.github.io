@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Platform Manager at Organic Valley.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Passionate about Powershell and DevOps.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dan.sonnenburg@gmail.com](mailto:dan.sonnenburg@gmail.com)
